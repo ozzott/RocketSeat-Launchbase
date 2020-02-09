@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: white;
+    font-family: 'Roboto', sans-serif;
+    color: #7159C1;
+}
+
+header {
+    padding: 32px;
+    background: #7159C1;
+}
+
+div {
+    text-align: center;
+}
+
+header div a {
+    color: white;
+    font-size: 40px;
+    line-height: 28px;
+    margin: 0 30px;
+    text-decoration: initial;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#escope {
+    font-weight: bold;
+    padding: 32px;
+}
+
+#escope img {
+    width: 500px;
+    height: 400px;
+    margin-bottom: 32px;
+    border-radius: 50%;
+    height: 500px;
+    border: 5px solid #000000;
+}
+
+#escope p {
+    max-width: 500px;
+    margin: 0 auto;
+    font-size: medium;
+}
+
+#escope ul {
+    padding-top: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+    font-size: medium;
+}
+
+.link a {
+    color: white;
+    font-size: 25px;
+    line-height: 28px;
+    margin: 0 16px;
+    text-decoration: initial;
+}
+
+.link a:hover {
+    transition: color 200ms;
+    color: #000000;
+}
+
+footer {
+    padding: 32px;
+    background: #7159C1;
+}
+
+footer div a {
+    color: white;
+    font-size: 40px;
+    line-height: 28px;
+    margin: 0 30px;
+    text-decoration: initial;
+    font-family: 'Montserrat', sans-serif;
+}
